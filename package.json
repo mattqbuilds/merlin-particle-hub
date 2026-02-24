@@ -1,0 +1,8 @@
+{
+  "name": "merlin-particle-hub",
+  "version": "0.1.0",
+  "description": "GPU-accelerated particle and holographic UI engine for MERLIN.",
+  "main": "MerlinParticleHub.tsx",
+  "license": "MIT",
+  "type": "module"
+}
